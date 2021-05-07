@@ -1,8 +1,5 @@
 # [Deep Learning Specialization Repo](https://www.coursera.org/specializations/deep-learning?#courses)
 
-Repository for the Deep Learning Specialization by DeepLearning.AI on Coursera.
-
-
 ### About this Specialization
 *from the Specialization landing page.
 
